@@ -1,0 +1,2 @@
+db_name:mysql
+db_passwd:123
